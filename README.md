@@ -1,6 +1,6 @@
 # PythonCar
 Simple python code for control motors and Raspberry Pi.
 
-## Few photos of hardware
+# Few photos of hardware
 
 
